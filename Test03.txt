@@ -1,0 +1,2 @@
+Test 03
+Создал test03.txt через gitbash
